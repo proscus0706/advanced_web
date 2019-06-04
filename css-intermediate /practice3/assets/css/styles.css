@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    color: white;
+    cursor:pointer;
+}
+
+header h3 {
+    padding: 20px;
+    margin: 50px;
+    font-size: 2.5rem;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+}
+
+header ul li {
+    padding: 20px;
+    font-size: 1.2rem;
+}
+
+/* 공통적인 코드 */
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 125px 100px;
+}
+
+.hero{
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    min-height: 80vh;
+}
+
+.hero .background-img {
+    background-image: url("../img/main.jpg");
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    z-index: -1;
+}
+
+.features {
+    background: gray;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.newsletter {
+    background: gray;
+}
+
+footer {
+    background: skyblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    padding: 3px;
+}
+
+footer p {
+    width: 300px;
+}

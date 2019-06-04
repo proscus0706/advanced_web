@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    padding: 125px 100px;
+    align-items: center;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav {
+    display: flex;
+    list-style: none;
+}
+
+header nav li {
+    padding: 3px;
+}
+
+@media(max-width: 600px){
+    header {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+.hero {
+    position: relative;
+    min-height: 100vh;
+    text-align: center;
+    justify-content: center;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+
+.destinations .grid li {
+    list-style: none;
+    padding: 20px;
+    height: 350px;
+    background-clip: content-box;
+    background-size: cover;
+    background-position: center;
+}
+
+.destinations .grid li.small {
+    flex-basis: 30%;
+}
+
+.destinations .grid li.big {
+    flex-basis: 70%;
+}
+
+@media(max-width: 600px){
+    .destinations .grid li.small {
+        flex-basis: 100%;
+    }
+    .destinations .grid li.big {
+        flex-basis: 100%;
+    }
+}
+
+.packages ul.grid{
+    list-style: none;
+}
+
+.packages ul.grid li {
+    flex-basis: 50%;
+}
+
+@media(max-width: 600px){
+    .packages ul.grid li {
+        flex-basis: 100%;
+    }
+}
