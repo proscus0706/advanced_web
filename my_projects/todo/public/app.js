@@ -34,7 +34,7 @@ function createTodo(){
     var userInput = $("#todoInput").val();
     $.post("/api/todos", {name:userInput})
         .then(function(newTodo){
-            user = $("#todoInput").val("");
+            userInput = $("#todoInput").val("");
             addTodo(newTodo);
         })
         .catch(function(err){
