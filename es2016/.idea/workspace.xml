@@ -2,52 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d64143-6927-468d-ad10-fd8cd92e93e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/grosso.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/es2016.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../my_projects/todo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/HISTORY.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/admin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/aggregation_cursor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/apm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/async/.eslintrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/async/async_iterator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/bulk/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/bulk/ordered.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/bulk/unordered.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/change_stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/collection.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/command_cursor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/constants.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/cursor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/db.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/error.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/gridfs-stream/download.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/gridfs-stream/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/gridfs-stream/upload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/gridfs/chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/gridfs/grid_store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/mongo_client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/operations/admin_ops.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/operations/aggregate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/operations/collection_ops.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/operations/cursor_ops.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/operations/db_ops.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/operations/mongo_client_ops.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/topologies/mongos.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/topologies/native_topology.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/topologies/replset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/topologies/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/topologies/topology_base.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/url_parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/lib/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/node_modules/mongodb/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../my_projects/todo/public/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../my_projects/todo/public/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es2017_async/await3.js" beforeDir="false" afterPath="$PROJECT_DIR$/es2017_async/await3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_meterial/practice/1/guess_the_password" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_meterial/practice/1/guess_the_password" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice_meterial/practice/2/guess_the_password" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_meterial/practice/2/guess_the_password" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,12 +17,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/es2017_async/await3.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/es2017_async/exercise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="380">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/es2017/object_spread.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -92,6 +59,13 @@
         <option value="$PROJECT_DIR$/es2017_async/await.js" />
         <option value="$PROJECT_DIR$/es2017_async/await2.js" />
         <option value="$PROJECT_DIR$/es2017_async/await3.js" />
+        <option value="$PROJECT_DIR$/es2017_async/await4.js" />
+        <option value="$PROJECT_DIR$/es2017_async/await5.js" />
+        <option value="$PROJECT_DIR$/es2017_async/await6.js" />
+        <option value="$PROJECT_DIR$/es2017_async/exercise.js" />
+        <option value="$PROJECT_DIR$/object_rest.js" />
+        <option value="$PROJECT_DIR$/object_spread.js" />
+        <option value="$PROJECT_DIR$/es2017/object_spread.js" />
       </list>
     </option>
   </component>
@@ -107,7 +81,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,12 +91,13 @@
             <path>
               <item name="es2016" type="b2602c69:ProjectViewProjectNode" />
               <item name="es2016" type="462c0819:PsiDirectoryNode" />
-              <item name="es2017_async" type="462c0819:PsiDirectoryNode" />
+              <item name="es2017" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,6 +114,11 @@
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/es2017" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -152,8 +131,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.await.js">
+  <component name="RunManager" selected="Node.js.object_spread.js">
     <configuration name="await.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="await.js" working-dir="$PROJECT_DIR$/es2017_async">
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="exercise.js" working-dir="$PROJECT_DIR$/es2017_async">
+      <method v="2" />
+    </configuration>
+    <configuration name="object_spread.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="object_spread.js" working-dir="$PROJECT_DIR$/es2017">
       <method v="2" />
     </configuration>
     <configuration name="padEnd.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="padEnd.js" working-dir="$PROJECT_DIR$">
@@ -164,6 +149,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.object_spread.js" />
+        <item itemvalue="Node.js.exercise.js" />
         <item itemvalue="Node.js.await.js" />
         <item itemvalue="Node.js.padEnd.js" />
         <item itemvalue="Node.js.padStart.js" />
@@ -180,31 +167,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560005676620</updated>
-      <workItem from="1560005677747" duration="1652000" />
+      <workItem from="1560005677747" duration="5920000" />
+      <workItem from="1560066913802" duration="696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1652000" />
+    <option name="totallyTimeSpent" value="6616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="23" width="960" height="1005" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24920128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32998884" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32998884" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -266,7 +253,49 @@
     <entry file="file://$PROJECT_DIR$/es2017_async/await3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <caret selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es2017_async/await4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es2017_async/await5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es2017_async/await6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es2017/object_rest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es2017_async/exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/es2017/object_spread.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>

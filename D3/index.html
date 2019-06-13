@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<script>
+
+    /*
+
+    Possibilities
+
+    1. DOM elements < data elements, (enter)
+    2. DOM elements > data elements, (exit)
+    3. DOM elements = data elements, (update)
+
+     */
+
+    var data = [10];
+
+    var circles = canvas.selectAll("circle")
+        .data(data)
+        .enter()
+        .append("circle")
+        .attr("cx", 50)
+        .attr("cy", 50)
+        .attr("r", 25);
+
+
+
+</script>
+
+</body>
+</html>
