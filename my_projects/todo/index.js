@@ -10,10 +10,9 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.use("/api/todos", todoRoutes);
 
 app.get("/", function(req, res){
-    res.sendFile("index.html");
+   res.sendFile("index.html");
 });
 
 app.listen(process.env.PORT | 3000, function(){
-    console.log("Hey! Welcome again!");
+   console.log("long time no see!");
 });
-

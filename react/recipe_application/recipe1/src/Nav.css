@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+}
+
+.navBar {
+    color: white;
+    width: 100%;
+    background-color: #1e5c64;
+    padding-left: 30px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-weight: 700;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+ul.nav-links li a{
+    color: white;
+    margin-right: 20px;
+    padding: 10px;
+}

@@ -2,9 +2,38 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>JSX Exercise</title>
+    <script src="https://unpkg.com/react@16.0.0-rc.2/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16.0.0-rc.2/umd/react-dom.development.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.js"></script>
+    <style>
+        .box {
+            padding: 50px 100px;
+            width: 100px;
+            border: 1px solid black;
+        }
+    </style>
+
 </head>
 <body>
-$END$
+<div id="app"></div>
+<script type="text/babel">
+    class RandomBox extends React.Component {
+        render() {
+            const colors = ['red', 'green', 'blue'];
+            const fontSize = `${Math.floor(Math.random()* 10) + 10}` + "px";
+            const backgroundColor = colors[Math.floor(Math.random() * 3)];
+
+            return (
+                <div className="box" style={
+                    {backgroundColor, fontSize}
+                }>Hello World
+                </div>
+            )
+        }
+    }
+    //이 코드까지 넣어줘야 render가 되는 것을 확인.
+    ReactDOM.render(<RandomBox />, document.getElementById('app'));
+</script>
 </body>
 </html>

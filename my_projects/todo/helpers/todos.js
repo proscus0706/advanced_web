@@ -21,7 +21,7 @@ exports.createTodo = function(req, res){
 };
 
 exports.getTodo = function(req, res){
-    db.Todo.findById(req.body.todoId)
+    db.Todo.findById(req.params.todoId)
         .then(function(foundTodo){
             res.json(foundTodo);
         })
@@ -32,8 +32,8 @@ exports.getTodo = function(req, res){
 
 exports.updateTodo = function(req, res){
     db.Todo.findOneAndUpdate({_id: req.params.todoId}, req.body, {new:true})
-        .then(function(updateTodo){
-            res.json(updateTodo);
+        .then(function(updatedTodo){
+            res.json(updatedTodo);
         })
         .catch(function(err){
             res.send(err);
@@ -41,9 +41,9 @@ exports.updateTodo = function(req, res){
 };
 
 exports.deleteTodo = function(req, res){
-    db.Todo.remove({_id:req.params.todoId})
+    db.Todo.remove({_id: req.params.todoId})
         .then(function(){
-            res.json({message:"We deleted it!"});
+            res.json({message:"We deleted it"});
         })
         .catch(function(err){
             res.send(err);
